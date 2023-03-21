@@ -15,3 +15,9 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 ## Time Series Tools 
 
   1. [Prophet](https://facebook.github.io/prophet/docs/quick_start.html)
+
+
+
+## Economics with Python
+
+  - [QuantEcon](https://quantecon.org/)
