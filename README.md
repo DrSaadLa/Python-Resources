@@ -21,3 +21,8 @@ Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 ## Economics with Python
 
   - [QuantEcon](https://quantecon.org/)
+  
+  
+## Online Platforms
+
+  - [Learn Python Online with EdX Platform](https://www.edx.org/learn/python)
