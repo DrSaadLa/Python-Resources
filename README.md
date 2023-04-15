@@ -10,7 +10,8 @@ We hope that this repository will be a valuable resource for anyone looking to l
 
 Maintainer: [Dr. Saad Laouadi](https://github.com/DrSaadLa)
 
-
+## Open Books 
+  - [indexnext |Beginning Python Programming for Aspiring Web Developers](https://www.openbookproject.net/books/bpp4awd/index.html)
 
 ## Time Series Tools 
 
